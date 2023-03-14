@@ -1,0 +1,26 @@
+.App {
+  font-family: sans-serif;
+  display: flex;
+  justify-content: center;
+  align-content: center;
+  flex-wrap: wrap;
+  padding: 10px;
+  gap: 1rem;
+  margin: 20px;
+  text-align: center;
+  }
+  .span{
+      text-decoration: line-through;
+  }
+  .str{
+    font-size: 30px;
+    color:yellow;
+  }
+  .btn{
+    background-color: white;
+    color:black;
+  }
+  .btn:hover{
+    background-color: black;
+    color: white;
+  }
